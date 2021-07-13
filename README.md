@@ -3,7 +3,7 @@ clear
 Menu() {
 clear
     echo -e '\n'
-    echo -e "    \e[05;33mDatami\e[05m \e[01;32m@painelvip\e[05m"
+    echo -e "    \e[05;33mDatami\e[05m \e[01;32m@EhisOpeNer\e[05m"
     echo -e "   \e[05;32mRaj, escolhe uma carta\e[05m"
     echo -e "\033[01;32mㅤㅤㅤ \e[0m\e[01;35mCole o pacote do aplicativo\e[00m"
 read x
